@@ -1,2 +1,2 @@
-# dotfiles
-my dot files configure
+# dotconfigs
+my dot configure
